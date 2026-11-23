@@ -119,6 +119,6 @@ En esta nueva versión se incorporaron mejoras para optimizar la organización, 
 
 **Proyecto:** Agenda de Contactos
 
-**Desarrollado por:** Kevin Ariel Catagña Pila
+**Desarrollado por:** Adrian Oña
 
 **Año:** 2026
